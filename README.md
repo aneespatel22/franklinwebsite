@@ -1,5 +1,5 @@
-# Your Project's Title...
-Your project's description...
+# Pfizer Clone Project
+Made a clone of Pfizer Website using AEM Franklin/Helix
 
 ## Environments
 - Preview: https://main--{repo}--{owner}.hlx.page/
